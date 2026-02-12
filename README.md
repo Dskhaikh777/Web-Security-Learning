@@ -9,6 +9,7 @@ This repository contains my personal notes and learnings while practicing **Web 
 - 🔐 [SQL Injection](./SQL-Injection/README.md)
 - 💥 [NoSQL Injection](./NoSQLi/README.md)
 - 🔐 [SSTI ](./SSTI/README.md)
+- [Access Control Vulnerabilities](./Access-control-vulnerabilities/README.md)
 - 🔄 CSRF *(coming soon)*
 - 🧭 IDOR *(coming soon)*
 - 🧾 XXE *(coming soon)*
