@@ -10,6 +10,7 @@ This repository contains my personal notes and learnings while practicing **Web 
 - 💥 [NoSQL Injection](./NoSQLi/README.md)
 - 🔐 [SSTI ](./SSTI/README.md)
 - [Access Control Vulnerabilities](./Access-control-vulnerabilities/README.md)
+- [JWT Auth Vuln](./JWT_Auth_Vuln/Readme.md)
 - 🔄 CSRF *(coming soon)*
 - 🧭 IDOR *(coming soon)*
 - 🧾 XXE *(coming soon)*
